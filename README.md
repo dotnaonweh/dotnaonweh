@@ -12,7 +12,7 @@ I am Ichsan Nur Ahmad. I am an undergraduate student of **Informatics Telkom Uni
 <a href="https://medium.com/@xsanna" target="_blank">
   <img align="left" alt="Ichsan's Medium" width="30px" src="https://img.icons8.com/color/48/000000/medium-monogram.png" />
 </a>
-<a href="https://xsanna.tech" target="_blank">
+<a href="https://xsanna.my.id/" target="_blank">
   <img align="left" alt="Ichsan's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
 </a>
 <a href="mailto:xsanna@root.go.id" target="_blank">
