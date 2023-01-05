@@ -1,6 +1,6 @@
-### Hi there, I'm Daffa
+### Hi there, I'm Ichsan
 
-I am Muhammad Daffa. I am an undergraduate student of **Informatics Engineering ITS**. I love to learn anything about cyber security!
+I am Ichsan Nur Ahmad. I am an undergraduate Informatics student at **Telkom University**. I love to learn anything about cyber security!
 
 - 🌱 I'm currently learning on **Javascript**
 
