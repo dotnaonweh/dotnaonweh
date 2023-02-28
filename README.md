@@ -1,7 +1,5 @@
 ### Hi there, I'm Ichsan
 
-I am Ichsan Nur Ahmad. I am an undergraduate Informatics student at **Telkom University**. I love to learn anything about cyber security!
-
 - 🌱 I'm currently learning on **Javascript and Python**
 
 ## Contact Me
